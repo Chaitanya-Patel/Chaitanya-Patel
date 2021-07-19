@@ -1,3 +1,1 @@
 - Hi, I’m Chaitanya-Patel
-- I’m interested in Science Fiction
-- I’m currently learning how to write interpreter in  embedded C
